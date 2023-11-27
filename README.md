@@ -53,4 +53,6 @@ The Python code is a simple script for brute-forcing password hashes using eithe
    ```
    If no match is found in the entire file, this message is printed.
 
-Note: This script is a basic example and might not be the most efficient or secure way to handle password hashing. Additionally, brute-forcing passwords is generally not recommended due to ethical and legal considerations.
+Note: This script is a basic example and might not be the most efficient or secure way to handle password hashing. 
+
+Additionally, brute-forcing passwords is generally not recommended due to ethical and legal considerations.
