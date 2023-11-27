@@ -1,6 +1,6 @@
 import hashlib
 
-type_of_hash = str(input('Which type of hash you want to bruteforce ?'))
+type_of_hash = str(input('Type of hash you want to bruteforce (md5/sha1):'))
 file_path = str(input('Enter path to the file to bruteforce with: '))
 hash_to_decrypt = str(input('Enter Hash Value To Bruteforce: '))
 
